@@ -9,3 +9,5 @@ Verbundene Satelitten oben rechts
 LED auf PIN 13 lässt sich für bestimmte Schwellenwerte definieren
 
 WICHTIG: Zum flashen muß der 5V Anschluss vom GPS Modul getrennt werden */
+
+GPS only Version added
